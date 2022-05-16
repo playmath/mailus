@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+a:link{
+  color:#fe34f4a8;
+}
+a:visited{
+  color:#0000ff;
+}
+a:hover{
+  font-size:150%;
+}
